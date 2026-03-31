@@ -18,8 +18,10 @@ Projeto simples desenvolvido em Java com o objetivo de praticar conceitos de Pro
 ## Objetivo
 Este projeto faz parte dos meus estudos em Java com foco em desenvolvimento back-end.
 
-## Como executar
+## Demonstração
+![Sistema funcionando](menu.png)
 
+## Como executar
 1. Clone o repositório
 2. Abra o projeto em uma IDE Java (IntelliJ, Eclipse ou VS Code)
 3. Execute a classe Main.java
