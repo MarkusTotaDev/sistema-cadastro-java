@@ -1,6 +1,6 @@
 # Sistema de Cadastro em Java
 
-Projeto simples desenvolvido em Java com o objetivo de praticar conceitos de Programação Orientada a Objetos (POO) e lógica de programação.
+Projeto de sistema de cadastro em Java desenvolvido para praticar Programação Orientada a Objetos, estrutura de dados e lógica de programação com menu interativo no console.
 
 ## Funcionalidades
 - Cadastrar usuário
@@ -19,6 +19,7 @@ Projeto simples desenvolvido em Java com o objetivo de praticar conceitos de Pro
 Este projeto faz parte dos meus estudos em Java com foco em desenvolvimento back-end.
 
 ## Demonstração
+
 ![Sistema funcionando](menu.png)
 
 ## Como executar
